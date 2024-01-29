@@ -1,0 +1,6 @@
+rules:
+- id: local_TEST
+  message: HELLO TEST
+  languages: [generic]
+  pattern: print(“hello”)
+  severity: ERROR
