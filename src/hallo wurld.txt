@@ -8,9 +8,11 @@ print("HELLO WORLD")
 print(not_a_string)
 
 print(first_var, second_var)
-
+TEST
 print()
 print("HELLO WORLD")
 # print("This is commented out so it will never be found")
+TEST
 print("HELLO WORLD")
 print("HELLO WORLD")
+TEST
