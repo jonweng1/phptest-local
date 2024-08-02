@@ -12,3 +12,6 @@ print(first_var, second_var)
 print()
 
 # print("This is commented out so it will never be found")
+print("HELLO WORLD")
+
+print("HELLO WORLD")
