@@ -1,0 +1,1 @@
+io.dropwizard:dropwizard-example:jar:1.3.5:compile
